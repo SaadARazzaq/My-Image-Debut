@@ -1,3 +1,10 @@
+<td>
+<div align="center">
+<img src="https://github.com/mathworks/awesome-matlab-students/blob/main/Images/membranelogo.png" alt="logo" width="300">
+</div>
+
+</td>
+
 # My Image Debut 🌙
 
 Enhance the brightness of an image and correct its rotation for a clearer visual representation. This project focuses on gamma correction, a technique to adjust pixel intensity, and rotation to straighten the image.
